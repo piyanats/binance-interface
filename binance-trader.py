@@ -21,11 +21,11 @@ def trade_bot(request):
         `make_response <http://flask.pocoo.org/docs/1.0/api/#flask.Flask.make_response>`.
 
         {
-          "binance_key": "kLejHFe37MsPNnVhGAqG3yhtMINS4e8dTNKaT4fABl0Kuev5iFF5FO3OyG9oNm2f",
-          "binance_secret": "tuLiKY93cxRLEL5wl63ptS7BOeXMELHscbxxHZWPanBCAtjUKoa09mQLuoKEzmQ7",
-          "line_token": "t7y5PJsc0s6U4KzqzpFoY0oOpycIzdwRjW91335ibmf",
-          "telegram_token": "1621883958:AAEbN0-R1LZZLHaUDhk2-TRBsiX73b4-2v4",
-          "telegram_chat_id": "764036577",
+          "binance_key": "xxxxxx",
+          "binance_secret": "xxxxxxxxxx",
+          "line_token": "xxxxxxx",
+          "telegram_token": "xxxxxxx",
+          "telegram_chat_id": "xxxxxx",
           "binance_action": "buy",
           "binance_symbol": "BTCUSDT",
           "binance_asset_name": "USDT",
